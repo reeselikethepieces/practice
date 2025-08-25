@@ -1,2 +1,2 @@
 # practice
-a repo for practicing previously done problems
+a repo for practicing problems previously completed 
